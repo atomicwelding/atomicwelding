@@ -6,4 +6,5 @@ Nonetheless, I kept some proficiency in technologies, including low-level comput
 
 At the moment, my GitHub is quite poor in projects. I still maintain a software called "simd-ddm" to perform differential dynamic microscopy in no time using Intel intrinsics, vectorization, threading, ...
 
-Feel free to contact me, I'm always interested in side projects!
+Feel free to contact me at **weld.lab [AT] outlook.com**, I'm always interested in side projects!
+
